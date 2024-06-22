@@ -1,0 +1,14 @@
+D:\Repositories\.netPractices\01-ConsoleProject\bin\Debug\net8.0\01-ConsoleProject.exe
+D:\Repositories\.netPractices\01-ConsoleProject\bin\Debug\net8.0\01-ConsoleProject.deps.json
+D:\Repositories\.netPractices\01-ConsoleProject\bin\Debug\net8.0\01-ConsoleProject.runtimeconfig.json
+D:\Repositories\.netPractices\01-ConsoleProject\bin\Debug\net8.0\01-ConsoleProject.dll
+D:\Repositories\.netPractices\01-ConsoleProject\bin\Debug\net8.0\01-ConsoleProject.pdb
+D:\Repositories\.netPractices\01-ConsoleProject\obj\Debug\net8.0\01-ConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\.netPractices\01-ConsoleProject\obj\Debug\net8.0\01-ConsoleProject.AssemblyInfoInputs.cache
+D:\Repositories\.netPractices\01-ConsoleProject\obj\Debug\net8.0\01-ConsoleProject.AssemblyInfo.cs
+D:\Repositories\.netPractices\01-ConsoleProject\obj\Debug\net8.0\01-ConsoleProject.csproj.CoreCompileInputs.cache
+D:\Repositories\.netPractices\01-ConsoleProject\obj\Debug\net8.0\01-ConsoleProject.dll
+D:\Repositories\.netPractices\01-ConsoleProject\obj\Debug\net8.0\refint\01-ConsoleProject.dll
+D:\Repositories\.netPractices\01-ConsoleProject\obj\Debug\net8.0\01-ConsoleProject.pdb
+D:\Repositories\.netPractices\01-ConsoleProject\obj\Debug\net8.0\01-ConsoleProject.genruntimeconfig.cache
+D:\Repositories\.netPractices\01-ConsoleProject\obj\Debug\net8.0\ref\01-ConsoleProject.dll
