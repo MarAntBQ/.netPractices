@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositories\\.netPractices\\GlazerCalc\\GlazerCalc.cs.csproj",
+      "projectUniqueName": "D:\\Repositories\\.netPractices\\02-GlazerCalc\\GlazerCalc.cs.csproj",
       "projectName": "GlazerCalc.cs",
-      "projectPath": "D:\\Repositories\\.netPractices\\GlazerCalc\\GlazerCalc.cs.csproj",
+      "projectPath": "D:\\Repositories\\.netPractices\\02-GlazerCalc\\GlazerCalc.cs.csproj",
       "packagesPath": "C:\\Users\\CEO\\.nuget\\packages\\",
-      "outputPath": "D:\\Repositories\\.netPractices\\GlazerCalc\\obj\\",
+      "outputPath": "D:\\Repositories\\.netPractices\\02-GlazerCalc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

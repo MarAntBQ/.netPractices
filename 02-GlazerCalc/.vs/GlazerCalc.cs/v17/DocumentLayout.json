@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Repositories\\.netPractices\\GlazerCalc\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Repositories\\.netPractices\\02-GlazerCalc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{897895AB-488B-484D-9CEF-68AF2A67E016}|GlazerCalc.cs.csproj|d:\\repositories\\.netpractices\\02-glazercalc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897895AB-488B-484D-9CEF-68AF2A67E016}|GlazerCalc.cs.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repositories\\.netPractices\\02-GlazerCalc\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Repositories\\.netPractices\\02-GlazerCalc\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T04:38:03.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
