@@ -1,0 +1,17 @@
+D:\Repositories\.netPractices\03-Math-Quiz\bin\Debug\net8.0-windows\03-Math-Quiz.exe
+D:\Repositories\.netPractices\03-Math-Quiz\bin\Debug\net8.0-windows\03-Math-Quiz.deps.json
+D:\Repositories\.netPractices\03-Math-Quiz\bin\Debug\net8.0-windows\03-Math-Quiz.runtimeconfig.json
+D:\Repositories\.netPractices\03-Math-Quiz\bin\Debug\net8.0-windows\03-Math-Quiz.dll
+D:\Repositories\.netPractices\03-Math-Quiz\bin\Debug\net8.0-windows\03-Math-Quiz.pdb
+D:\Repositories\.netPractices\03-Math-Quiz\obj\Debug\net8.0-windows\_03_Math_Quiz.Form1.resources
+D:\Repositories\.netPractices\03-Math-Quiz\obj\Debug\net8.0-windows\03-Math-Quiz.csproj.GenerateResource.cache
+D:\Repositories\.netPractices\03-Math-Quiz\obj\Debug\net8.0-windows\03-Math-Quiz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\.netPractices\03-Math-Quiz\obj\Debug\net8.0-windows\03-Math-Quiz.AssemblyInfoInputs.cache
+D:\Repositories\.netPractices\03-Math-Quiz\obj\Debug\net8.0-windows\03-Math-Quiz.AssemblyInfo.cs
+D:\Repositories\.netPractices\03-Math-Quiz\obj\Debug\net8.0-windows\03-Math-Quiz.csproj.CoreCompileInputs.cache
+D:\Repositories\.netPractices\03-Math-Quiz\obj\Debug\net8.0-windows\03-Math-Quiz.sourcelink.json
+D:\Repositories\.netPractices\03-Math-Quiz\obj\Debug\net8.0-windows\03-Math-Quiz.dll
+D:\Repositories\.netPractices\03-Math-Quiz\obj\Debug\net8.0-windows\refint\03-Math-Quiz.dll
+D:\Repositories\.netPractices\03-Math-Quiz\obj\Debug\net8.0-windows\03-Math-Quiz.pdb
+D:\Repositories\.netPractices\03-Math-Quiz\obj\Debug\net8.0-windows\03-Math-Quiz.genruntimeconfig.cache
+D:\Repositories\.netPractices\03-Math-Quiz\obj\Debug\net8.0-windows\ref\03-Math-Quiz.dll
